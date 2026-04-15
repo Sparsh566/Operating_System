@@ -34,4 +34,7 @@ It covers **basic Linux commands**, **file handling using vi**, and **C program 
 ### 🔹 Practical 10: CPU Scheduling (Banker's Algorithm)
 ### 🔹 Practical 11: Page Replacement (FCFS)
 ### 🔹 Practical 12: Banker's Algorithm using 1-D array
+### 🔹 Practical 13: Basic program of Shellscript
+### 🔹 Practical 14: Loop control structure using Shellscript
+### 🔹 Practical 15: Switch case using Shellscript
 ---
